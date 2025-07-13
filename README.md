@@ -18,6 +18,3 @@ Los mensajes enviados y recibidos son mostrados en consola, con hora y direcció
 ## Cómo ejecutar
 1. Ejecutar primero `ServidorUDP.java`
 2. Ejecutar una o más veces `ClienteUDP.java` con distintos identificadores
-
-## Autor
-Tu Nombre - Proyecto para curso de Programación Concurrente en Java.
